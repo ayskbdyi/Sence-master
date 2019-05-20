@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "789024492330",
+    "firebase_url": "https://sence-master.firebaseio.com",
+    "project_id": "sence-master",
+    "storage_bucket": "sence-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789024492330:android:6dca7d11584c0cbe",
+        "android_client_info": {
+          "package_name": "com.turkcell.sence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789024492330-m0fr1k24v31hk3ah2dfoup6esjua28s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.turkcell.sence",
+            "certificate_hash": "a8b3559608bc6db7c70a6c76ded4e9ffd3c7aca6"
+          }
+        },
+        {
+          "client_id": "789024492330-d8289akslnqpc7oeuevk3j46fjq760mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbZ04LefBii-yVePLeTtmpvNvjAup2coQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789024492330-d8289akslnqpc7oeuevk3j46fjq760mu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
